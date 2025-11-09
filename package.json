@@ -1,0 +1,23 @@
+{
+  "name": "queuectl-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "shelljs": "^0.10.0",
+    "uuid": "^13.0.0"
+  }
+}
